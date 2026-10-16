@@ -523,3 +523,4 @@ video.unrulymedia.com,144138083,RESELLER
 video.unrulymedia.com,703273072,RESELLER
 video.unrulymedia.com,201313863,RESELLER
 ironsrc.com,665541,DIRECT
+rubiconproject.com, 15268, RESELLER, 0bfd66d529a55807

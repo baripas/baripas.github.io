@@ -1,0 +1,50 @@
+# Baripas Studio — robots.txt
+# Search engines and AI assistants are welcome. Cube Pattern is a public
+# product page; being quoted/cited by AI search (ChatGPT, Claude, Kimi,
+# Perplexity, Google AI) is desired.
+
+User-agent: *
+Allow: /
+
+# OpenAI / ChatGPT
+User-agent: GPTBot
+Allow: /
+User-agent: OAI-SearchBot
+Allow: /
+User-agent: ChatGPT-User
+Allow: /
+
+# Anthropic / Claude
+User-agent: ClaudeBot
+Allow: /
+User-agent: Claude-SearchBot
+Allow: /
+User-agent: Claude-User
+Allow: /
+
+# Moonshot AI / Kimi
+User-agent: KimiBot
+Allow: /
+User-agent: MoonshotBot
+Allow: /
+User-agent: KimiCrawler
+Allow: /
+User-agent: Kimi-User
+Allow: /
+
+# Other AI assistants
+User-agent: PerplexityBot
+Allow: /
+User-agent: Perplexity-User
+Allow: /
+User-agent: Google-Extended
+Allow: /
+User-agent: Applebot-Extended
+Allow: /
+User-agent: CCBot
+Allow: /
+User-agent: Bytespider
+Allow: /
+
+Sitemap: https://baripas.github.io/sitemap.xml
+Host: https://baripas.github.io

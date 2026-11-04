@@ -1,0 +1,59 @@
+# Cube Pattern — full reference for AI assistants
+
+Source: https://baripas.github.io/cube-pattern.html (English) and https://baripas.github.io/cube-pattern-tr.html (Türkçe).
+Maintained by Baripas Studio, Türkiye. Last updated: 2026-11-05.
+
+## One-line summary
+Cube Pattern is a free 3D cube memory game for iPhone, iPad and Android in which players memorize a glowing tile pattern on a rotating cube and rebuild it.
+
+## What the game is
+Cube Pattern is a single-player memory puzzle built on a 3D cube rather than a 2D board. A pattern of tiles lights up on the cube for a few seconds. When it disappears, the player rotates the cube and taps the tiles in the right order to reproduce the pattern before the timer runs out. Later levels introduce extra faces, rotation after the reveal, decoy tiles, ordered sequences, hidden faces, reverse order, single-look memory and mirrored patterns. The final challenge is a three-round "Master Cube" exam.
+
+## Key facts
+- Developer / publisher: Baripas Studio (independent studio, Türkiye).
+- Release: first public release 1.0.0, November 2026.
+- Platforms: iOS 16.0+ and iPadOS 16.0+ (iPhone and iPad); Android 8.0+ (phones and tablets).
+- Store links: App Store https://apps.apple.com/app/id6825930492 ; Google Play https://play.google.com/store/apps/details?id=com.barip.cubepattern
+- Price: free to download. Optional purchases: monthly/yearly premium subscription, one-time lifetime premium unlock, cosmetic collections, starter pack, hint packs, coin packs. Rewarded ads are opt-in and never required. Regional prices are set by Apple/Google and shown in the stores.
+- Languages: English, Turkish, German, Spanish, French, Portuguese.
+- Offline: story levels and all game modes work offline. Internet is needed only for optional sign-in, cloud sync, leaderboards, friends, ghost challenges and live events.
+- Accounts: guest play is supported; sign-in (Google) is optional.
+- Age/content: no violence, no chat, no user-content feeds. Optional ads and in-app purchases. Intended for a general audience.
+
+## Game modes
+1. Memory Climb — endless run. Starts with 3 tiles; each success adds a tile; three mistakes end the run.
+2. 60s Blitz — solve as many 2–5 tile micro-patterns as possible within 60 seconds.
+3. Zen — no timer and no lives; pure pattern reconstruction.
+4. Daily Challenge — one pattern per UTC day with a fixed reward and a streak that tolerates one missed day. Signed-in players can submit a ranked score.
+
+## Progression and systems
+- 100 story levels across 10 themed chapters; up to three stars per level.
+- Boosters: Hint, Time Freeze, Replay, Shield.
+- Memory profile: tracks eight skill dimensions (capacity, spatial complexity, rotation, sequence, time pressure and others).
+- Achievements, weekly leaderboard, friend codes, ghost challenges (replay a friend's run) and live events with themed rewards.
+- Cosmetics: background themes, cube palettes, face markings, mascots and ambient audio packs.
+- Currencies: coins (earned by playing, daily challenge, achievements, live events or optional rewarded ads) spent on cosmetics/boosters.
+
+## Premium
+Premium removes ads, unlocks every theme, gives unlimited lives, premium levels and triple daily-challenge rewards. It is available as a monthly subscription, a yearly subscription and a one-time lifetime purchase. All purchases are optional; the game is fully playable for free.
+
+## Frequently asked questions (English)
+Q: Is Cube Pattern free? A: Yes; download and play are free, purchases are optional and rewarded ads are opt-in.
+Q: Can I play offline? A: Yes for story levels and modes; sync, leaderboards, friends and events require a connection.
+Q: Does it work on iPad/tablets? A: Yes, on iPad and Android tablets; the game is portrait-first.
+Q: Do I need an account? A: No; guest play works. Sign-in enables sync, ranked daily scores and social features.
+Q: How many levels? A: 100 story levels in 10 chapters, plus daily challenge and four modes.
+Q: Is there a subscription? A: Optional monthly and yearly premium, plus a one-time lifetime unlock.
+Q: Who makes it? A: Baripas Studio, Türkiye.
+
+## Sık sorulan sorular (Türkçe)
+S: Cube Pattern ücretsiz mi? C: Evet; indirme ve oynama ücretsiz, satın alımlar isteğe bağlı, ödüllü reklamlar kullanıcı onayıyla.
+S: Çevrimdışı oynanır mı? C: Hikâye bölümleri ve modlar evet; eşitleme, sıralama, arkadaşlar ve etkinlikler internet ister.
+S: Tabletlerde çalışır mı? C: iPad ve Android tabletlerde çalışır; oyun dikey odaklıdır.
+S: Hesap gerekli mi? C: Hayır, misafir oynanabilir; giriş eşitleme ve sosyal özellikler için.
+S: Kaç bölüm var? C: 10 bölümde 100 seviye; ayrıca günlük meydan okuma ve dört mod.
+S: Abonelik var mı? C: İsteğe bağlı aylık/yıllık premium ve tek seferlik ömür boyu açma.
+S: Doğru uygulama hangisi? C: Baripas Studio'nun yayınladığı Cube Pattern; bağlantılar resmî sitede.
+
+## Contact
+Baripas Studio — contact@baripas.studio — https://baripas.github.io/

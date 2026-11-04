@@ -1,0 +1,36 @@
+# Baripas Studio
+
+> Baripas Studio is an independent single-player mobile game studio based in Türkiye. It publishes small, focused games with no feeds and no social noise: Cube Pattern (3D cube memory puzzle), Swipe Clone (path-copying game) and Angle Dare (precision angle game).
+
+Baripas Studio builds calm, single-player mobile games for iOS, iPadOS and Android. The studio's flagship title is **Cube Pattern**, a free 3D spatial-memory puzzle. Contact: contact@baripas.studio.
+
+## Games
+
+- [Cube Pattern](https://baripas.github.io/cube-pattern.html): Free 3D cube memory game for iPhone, iPad and Android. Memorize a glowing tile pattern on a rotating cube, then rebuild it. 100 levels, daily challenge, 4 game modes, offline play, 6 languages. Published by Baripas Studio. App Store id 6825930492; Google Play package com.barip.cubepattern.
+- [Cube Pattern (Türkçe)](https://baripas.github.io/cube-pattern-tr.html): 3D küp hafıza oyunu. Ücretsiz; 100 bölüm, günlük meydan okuma, çevrimdışı oynanış, altı dil.
+- [Swipe Clone](https://baripas.github.io/#swipe-clone): Watch a generated path, then copy its shape and pace with one finger. Three-part scoring and a visible pace profile.
+- [Angle Dare](https://baripas.github.io/#angle-dare): A precision angle game. The target angle is shown briefly; the live measurement stays hidden until you lock in.
+
+## Key facts about Cube Pattern
+
+- Genre: 3D spatial memory puzzle / brain training game.
+- Platforms: iOS 16+ (iPhone, iPad), Android 8.0+.
+- Price model: free to download; optional premium subscription (monthly/yearly), one-time lifetime unlock, cosmetic collections, hint packs and coin packs. Rewarded ads are optional.
+- Content: 100 story levels in 10 chapters, three-round Master Cube finale, daily challenge (UTC), Memory Climb, 60s Blitz, Zen modes.
+- Modes and systems: boosters, memory profile with 8 skill dimensions, achievements, weekly leaderboard, friends, ghost challenges, live events, cosmetics and mascots.
+- Offline: story levels and modes work without an internet connection. Sign-in is optional and only needed for sync, leaderboards and social features.
+- Languages: English, Turkish, German, Spanish, French, Portuguese.
+- Developer: Baripas Studio, Türkiye.
+
+## Support and legal
+
+- [Support](https://baripas.github.io/support.html)
+- [Privacy policy (Cube Pattern)](https://baripas.github.io/privacy/)
+- [Terms of use](https://baripas.github.io/terms/)
+- [Account deletion](https://baripas.github.io/account-deletion/)
+- Support email: contact@baripas.studio
+
+## Optional
+
+- [Cube Pattern full reference (long-form)](https://baripas.github.io/llms-full.txt)
+- [Sitemap](https://baripas.github.io/sitemap.xml)

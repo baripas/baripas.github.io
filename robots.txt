@@ -37,6 +37,19 @@ User-agent: PerplexityBot
 Allow: /
 User-agent: Perplexity-User
 Allow: /
+
+# Google Search / Gemini / AI features
+User-agent: Googlebot
+Allow: /
+User-agent: Googlebot-Image
+Allow: /
+User-agent: GoogleOther
+Allow: /
+User-agent: Google-InspectionTool
+Allow: /
+User-agent: Google-CloudVertexBot
+Allow: /
+
 User-agent: Google-Extended
 Allow: /
 User-agent: Applebot-Extended

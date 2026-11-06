@@ -76,4 +76,20 @@
     <loc>https://baripas.github.io/account-deletion/</loc>
     <lastmod>2026-11-06</lastmod><changefreq>monthly</changefreq><priority>0.4</priority>
   </url>
+  <url>
+    <loc>https://baripas.github.io/about.html</loc>
+    <lastmod>2026-11-06</lastmod><changefreq>monthly</changefreq><priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://baripas.github.io/about-tr.html</loc>
+    <lastmod>2026-11-06</lastmod><changefreq>monthly</changefreq><priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://baripas.github.io/spatial-memory.html</loc>
+    <lastmod>2026-11-06</lastmod><changefreq>monthly</changefreq><priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://baripas.github.io/spatial-memory-tr.html</loc>
+    <lastmod>2026-11-06</lastmod><changefreq>monthly</changefreq><priority>0.85</priority>
+  </url>
 </urlset>

@@ -13,6 +13,15 @@ Contact: contact@baripas.studio · Site: https://baripas.github.io/ · Last upda
 - [Cube Pattern (Français)](https://baripas.github.io/cube-pattern-fr.html): Jeu de mémoire 3D gratuit ; 100 niveaux, défi quotidien, hors ligne, six langues.
 - [Cube Pattern (Português)](https://baripas.github.io/cube-pattern-pt.html): Jogo de memória 3D gratuito; 100 níveis, desafio diário, offline, seis idiomas.
 
+## Explainers and background
+
+- [What is spatial memory?](https://baripas.github.io/spatial-memory.html): Educational explainer on spatial memory, how 3D games may support it (with study caveats), and how Cube Pattern maps to it.
+- [Uzamsal hafıza nedir?](https://baripas.github.io/spatial-memory-tr.html): Turkish version of the spatial memory explainer.
+
+## About
+
+- [About Baripas Studio](https://baripas.github.io/about.html): independent studio in Türkiye; principles, games, contact.
+
 ## Guides and release notes
 
 - [How to play Cube Pattern](https://baripas.github.io/how-to-play.html): Rules, scoring, stars, coins, boosters and tips for all four modes.

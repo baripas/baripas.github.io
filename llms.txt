@@ -1,36 +1,46 @@
 # Baripas Studio
 
-> Baripas Studio is an independent single-player mobile game studio based in Türkiye. It publishes small, focused games with no feeds and no social noise: Cube Pattern (3D cube memory puzzle), Swipe Clone (path-copying game) and Angle Dare (precision angle game).
+> Baripas Studio is an independent single-player mobile game studio based in Türkiye. Its flagship title is Cube Pattern, a free 3D cube memory game for iPhone, iPad and Android. The studio builds calm, focused games with no feeds and no chat.
 
-Baripas Studio builds calm, single-player mobile games for iOS, iPadOS and Android. The studio's flagship title is **Cube Pattern**, a free 3D spatial-memory puzzle. Contact: contact@baripas.studio.
+Contact: contact@baripas.studio · Site: https://baripas.github.io/ · Last updated: 2026-11-06
 
-## Games
+## Cube Pattern
 
-- [Cube Pattern](https://baripas.github.io/cube-pattern.html): Free 3D cube memory game for iPhone, iPad and Android. Memorize a glowing tile pattern on a rotating cube, then rebuild it. 100 levels, daily challenge, 4 game modes, offline play, 6 languages. Published by Baripas Studio. App Store id 6825930492; Google Play package com.barip.cubepattern.
-- [Cube Pattern (Türkçe)](https://baripas.github.io/cube-pattern-tr.html): 3D küp hafıza oyunu. Ücretsiz; 100 bölüm, günlük meydan okuma, çevrimdışı oynanış, altı dil.
-- [Swipe Clone](https://baripas.github.io/#swipe-clone): Watch a generated path, then copy its shape and pace with one finger. Three-part scoring and a visible pace profile.
-- [Angle Dare](https://baripas.github.io/#angle-dare): A precision angle game. The target angle is shown briefly; the live measurement stays hidden until you lock in.
+- [Cube Pattern (English)](https://baripas.github.io/cube-pattern.html): Free 3D cube memory game. Watch the glowing tile pattern on a rotating cube, rebuild it tile by tile. 100 levels, daily challenge, 4 modes, offline play, 6 languages. App Store id 6825930492; Google Play package com.barip.cubepattern.
+- [Cube Pattern (Türkçe)](https://baripas.github.io/cube-pattern-tr.html): Ücretsiz 3D küp hafıza oyunu; 100 bölüm, günlük meydan okuma, çevrimdışı, altı dil.
+- [Cube Pattern (Deutsch)](https://baripas.github.io/cube-pattern-de.html): Kostenloses 3D-Würfel-Gedächtnisspiel; 100 Level, Tages-Challenge, Offline, sechs Sprachen.
+- [Cube Pattern (Español)](https://baripas.github.io/cube-pattern-es.html): Juego de memoria 3D gratuito; 100 niveles, reto diario, sin conexión, seis idiomas.
+- [Cube Pattern (Français)](https://baripas.github.io/cube-pattern-fr.html): Jeu de mémoire 3D gratuit ; 100 niveaux, défi quotidien, hors ligne, six langues.
+- [Cube Pattern (Português)](https://baripas.github.io/cube-pattern-pt.html): Jogo de memória 3D gratuito; 100 níveis, desafio diário, offline, seis idiomas.
 
-## Key facts about Cube Pattern
+## Guides and release notes
 
-- Genre: 3D spatial memory puzzle / brain training game.
-- Platforms: iOS 16+ (iPhone, iPad), Android 8.0+.
-- Price model: free to download; optional premium subscription (monthly/yearly), one-time lifetime unlock, cosmetic collections, hint packs and coin packs. Rewarded ads are optional.
-- Content: 100 story levels in 10 chapters, three-round Master Cube finale, daily challenge (UTC), Memory Climb, 60s Blitz, Zen modes.
-- Modes and systems: boosters, memory profile with 8 skill dimensions, achievements, weekly leaderboard, friends, ghost challenges, live events, cosmetics and mascots.
-- Offline: story levels and modes work without an internet connection. Sign-in is optional and only needed for sync, leaderboards and social features.
+- [How to play Cube Pattern](https://baripas.github.io/how-to-play.html): Rules, scoring, stars, coins, boosters and tips for all four modes.
+- [Cube Pattern nasıl oynanır?](https://baripas.github.io/how-to-play-tr.html): Kurallar, puanlama, yıldızlar, altınlar, güçlendiriciler ve ipuçları.
+- [Changelog](https://baripas.github.io/changelog.html): Release notes; current version 1.0.0 (November 2026).
+
+## Key facts
+
+- Genre: 3D spatial memory puzzle / casual brain game.
+- Developer: Baripas Studio (Türkiye).
+- Platforms: iPhone and iPad (iOS/iPadOS 16+), Android 8.0+.
+- Price: free to download; optional premium (monthly, yearly, lifetime), starter pack, collections, hint packs and coin packs. Rewarded ads are optional.
+- Content: 100 story levels in 10 chapters, three-round Master Cube finale, daily challenge (UTC), Memory Climb, 60s Blitz, Zen.
+- Systems: boosters (Hint, Time Freeze, Replay, Shield), memory profile with 8 dimensions, achievements, weekly leaderboard, friends, ghost challenges, live events, cosmetics and mascots.
+- Offline: story levels and modes work without internet; sign-in is optional and only needed for sync, leaderboard and social features.
+- Accounts: guest play, optional Google sign-in, cloud sync, in-app account deletion and a web deletion page.
 - Languages: English, Turkish, German, Spanish, French, Portuguese.
-- Developer: Baripas Studio, Türkiye.
+- Privacy: no feed, no chat; analytics and crash reporting are opt-in.
 
 ## Support and legal
 
-- [Support](https://baripas.github.io/support.html)
+- [Support](https://baripas.github.io/support.html) · [Destek](https://baripas.github.io/support-tr.html)
 - [Privacy policy (Cube Pattern)](https://baripas.github.io/privacy/)
 - [Terms of use](https://baripas.github.io/terms/)
 - [Account deletion](https://baripas.github.io/account-deletion/)
-- Support email: contact@baripas.studio
+- Email: contact@baripas.studio
 
 ## Optional
 
-- [Cube Pattern full reference (long-form)](https://baripas.github.io/llms-full.txt)
+- [Full reference for AI assistants](https://baripas.github.io/llms-full.txt)
 - [Sitemap](https://baripas.github.io/sitemap.xml)

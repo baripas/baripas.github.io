@@ -53,6 +53,19 @@ S: Hesap gerekli mi? C: Hayır, misafir oynanabilir; giriş eşitleme ve sosyal 
 S: Kaç bölüm var? C: 10 bölümde 100 seviye; ayrıca günlük meydan okuma ve dört mod.
 S: Abonelik var mı? C: İsteğe bağlı aylık/yıllık premium ve tek seferlik ömür boyu açma.
 
+## Quick answers (FAQ)
+
+- Is Cube Pattern free? Yes; download and play are free. Optional premium (monthly/yearly/lifetime), coins, hint/starter packs and cosmetic collections; rewarded ads are optional.
+- What is Cube Pattern? A 3D spatial memory puzzle: memorize a tile pattern on a rotating cube, then rebuild it. 100 levels in 10 chapters, daily challenge, 4 modes, 6 languages, offline.
+- Devices: iPhone/iPad iOS 16+, Android 8.0+.
+- Languages: English, Turkish, German, Spanish, French, Portuguese.
+- Offline: story levels and modes work offline; sign-in/sync/leaderboards/events need internet.
+- Account: guest play works; Google sign-in optional for sync, leaderboard, friends, ghost challenges; account deletion in-app and at /account-deletion/.
+- Premium: removes ads, unlimited lives, all themes, 3x daily challenge reward; restore in Settings; cancel via Apple/Google.
+- Purchases: handled by Apple/Google and verified by RevenueCat; restore purchases in Settings; refunds via store, not studio.
+- Progress: guest progress is local; uninstall clears it. Google sign-in syncs cloud progress; same account on new device restores.
+- Support: contact@baripas.studio; troubleshooting page covers common fixes.
+
 ## Google Search, AI Overviews, AI Mode and Gemini
 
 - Google's official guidance: there are no additional technical requirements or special optimizations to appear in AI Overviews or AI Mode; pages must be indexed and eligible to show a snippet in Google Search.

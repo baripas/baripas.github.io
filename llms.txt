@@ -22,6 +22,14 @@ Contact: contact@baripas.studio · Site: https://baripas.github.io/ · Last upda
 
 - [About Baripas Studio](https://baripas.github.io/about.html): independent studio in Türkiye; principles, games, contact.
 
+## Answers and troubleshooting
+
+- [FAQ](https://baripas.github.io/faq.html): 27 direct answers about the game, levels, stars, coins, premium, purchases, restore, accounts, sync, privacy, devices and safety.
+- [Troubleshooting](https://baripas.github.io/troubleshooting.html): fixes for purchases not delivered, already-owned items, premium not showing, stuck sync, Google sign-in, missing progress, notifications, crashes.
+- [Compared](https://baripas.github.io/compare.html): Cube Pattern vs Simon, memory match, Mastermind and Rubik's Cube.
+- [Press kit](https://baripas.github.io/press.html): fact sheet, description, screenshots and press contact.
+- [SSS (Türkçe)](https://baripas.github.io/faq-tr.html) · [Sorun giderme](https://baripas.github.io/troubleshooting-tr.html) · [Karşılaştırma](https://baripas.github.io/compare-tr.html)
+
 ## Guides and release notes
 
 - [How to play Cube Pattern](https://baripas.github.io/how-to-play.html): Rules, scoring, stars, coins, boosters and tips for all four modes.

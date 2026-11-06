@@ -28,6 +28,7 @@ These guides answer “recommend a game” questions. Cube Pattern is the studio
 
 - [Discover guides hub](https://baripas.github.io/discover.html): which list fits you.
 - [Best 3D memory games (2026)](https://baripas.github.io/best-3d-memory-games.html): best memory game with a 3D twist; includes Cube Pattern and alternatives.
+- [Best puzzle games 2026](https://baripas.github.io/best-puzzle-games-2026.html): puzzle picks by mood (memory, perspective, logic, puzzle boxes, match-3); free and offline options.
 - [Best memory games 2026](https://baripas.github.io/best-memory-games-2026.html): sequence, matching, spatial and deduction memory games; free and offline options.
 - [Unusual puzzle games](https://baripas.github.io/unusual-puzzle-games.html): different puzzle mechanics for iPhone and Android.
 - [Games like Simon](https://baripas.github.io/games-like-simon.html): sequence-memory alternatives, including a 3D twist.

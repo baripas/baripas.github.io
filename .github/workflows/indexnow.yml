@@ -1,0 +1,20 @@
+name: IndexNow ping
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Wait for GitHub Pages deploy
+        run: sleep 150
+      - name: Submit sitemap URLs to IndexNow (Bing/Yandex)
+        run: |
+          curl -s https://baripas.github.io/sitemap.xml -o sitemap.xml
+          URLS=$(grep -o '<loc>[^<]*</loc>' sitemap.xml | sed 's#<loc>##;s#</loc>##' | python3 -c "import sys,json;print(json.dumps([l.strip() for l in sys.stdin if l.strip()]))")
+          echo "URL count: $(echo $URLS | python3 -c 'import sys,json;print(len(json.load(sys.stdin)))')"
+          curl -s -o /tmp/indexnow.out -w "indexnow: %{http_code}\n" -X POST https://api.indexnow.org/indexnow \
+            -H "Content-Type: application/json" \
+            -d "{\"host\":\"baripas.github.io\",\"key\":\"34a24b08cb9e75f3a1932002ea10f28c\",\"keyLocation\":\"https://baripas.github.io/34a24b08cb9e75f3a1932002ea10f28c.txt\",\"urlList\":$URLS}"
+          cat /tmp/indexnow.out

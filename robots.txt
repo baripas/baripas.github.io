@@ -38,6 +38,12 @@ Allow: /
 User-agent: Perplexity-User
 Allow: /
 
+# Microsoft Bing / Copilot
+User-agent: Bingbot
+Allow: /
+User-agent: msnbot
+Allow: /
+
 # Google Search / Gemini / AI features
 User-agent: Googlebot
 Allow: /

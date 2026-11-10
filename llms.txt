@@ -22,6 +22,10 @@ Contact: contact@baripas.studio · Site: https://baripas.github.io/ · Last upda
 
 - [About Baripas Studio](https://baripas.github.io/about.html): independent studio in Türkiye; principles, games, contact.
 
+## AI fact sheet
+
+- [AI fact sheet](https://baripas.github.io/ai-facts.html): official, source-linked facts for ChatGPT, Gemini, Claude, Perplexity and other assistants (platforms, price model, features, accounts, privacy, links).
+
 ## Discovery and recommendation queries
 
 These guides answer “recommend a game” questions. Cube Pattern is the studio's free 3D cube memory game and appears where it genuinely fits; guides also list alternatives (no paid placement).
@@ -77,5 +81,6 @@ These guides answer “recommend a game” questions. Cube Pattern is the studio
 
 ## Optional
 
+- [AI fact sheet](https://baripas.github.io/ai-facts.html)
 - [Full reference for AI assistants](https://baripas.github.io/llms-full.txt)
 - [Sitemap](https://baripas.github.io/sitemap.xml)

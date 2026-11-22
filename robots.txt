@@ -67,3 +67,4 @@ Allow: /
 
 Sitemap: https://baripas.github.io/sitemap.xml
 Host: https://baripas.github.io
+Sitemap: https://baripas.github.io/sitemap.txt

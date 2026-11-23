@@ -2,74 +2,182 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://baripas.github.io/</loc>
-    <lastmod>2026-11-22</lastmod>
   </url>
   <url>
     <loc>https://baripas.github.io/cube-pattern.html</loc>
-    <lastmod>2026-11-22</lastmod>
   </url>
   <url>
     <loc>https://baripas.github.io/cube-pattern-tr.html</loc>
-    <lastmod>2026-11-22</lastmod>
   </url>
   <url>
     <loc>https://baripas.github.io/cube-pattern-de.html</loc>
-    <lastmod>2026-11-22</lastmod>
   </url>
   <url>
     <loc>https://baripas.github.io/cube-pattern-es.html</loc>
-    <lastmod>2026-11-22</lastmod>
   </url>
   <url>
     <loc>https://baripas.github.io/cube-pattern-fr.html</loc>
-    <lastmod>2026-11-22</lastmod>
   </url>
   <url>
     <loc>https://baripas.github.io/cube-pattern-pt.html</loc>
-    <lastmod>2026-11-22</lastmod>
   </url>
   <url>
     <loc>https://baripas.github.io/how-to-play.html</loc>
-    <lastmod>2026-11-22</lastmod>
   </url>
   <url>
     <loc>https://baripas.github.io/how-to-play-tr.html</loc>
-    <lastmod>2026-11-22</lastmod>
-  </url>
-  <url>
-    <loc>https://baripas.github.io/faq.html</loc>
-    <lastmod>2026-11-22</lastmod>
-  </url>
-  <url>
-    <loc>https://baripas.github.io/faq-tr.html</loc>
-    <lastmod>2026-11-22</lastmod>
-  </url>
-  <url>
-    <loc>https://baripas.github.io/about.html</loc>
-    <lastmod>2026-11-22</lastmod>
-  </url>
-  <url>
-    <loc>https://baripas.github.io/about-tr.html</loc>
-    <lastmod>2026-11-22</lastmod>
-  </url>
-  <url>
-    <loc>https://baripas.github.io/support.html</loc>
-    <lastmod>2026-11-22</lastmod>
-  </url>
-  <url>
-    <loc>https://baripas.github.io/support-tr.html</loc>
-    <lastmod>2026-11-22</lastmod>
   </url>
   <url>
     <loc>https://baripas.github.io/changelog.html</loc>
-    <lastmod>2026-11-22</lastmod>
+  </url>
+  <url>
+    <loc>https://baripas.github.io/support.html</loc>
+  </url>
+  <url>
+    <loc>https://baripas.github.io/support-tr.html</loc>
   </url>
   <url>
     <loc>https://baripas.github.io/privacy/</loc>
-    <lastmod>2026-11-22</lastmod>
   </url>
   <url>
     <loc>https://baripas.github.io/terms/</loc>
-    <lastmod>2026-11-22</lastmod>
+  </url>
+  <url>
+    <loc>https://baripas.github.io/privacy-policy.html</loc>
+  </url>
+  <url>
+    <loc>https://baripas.github.io/privacy-policy-tr.html</loc>
+  </url>
+  <url>
+    <loc>https://baripas.github.io/terms.html</loc>
+  </url>
+  <url>
+    <loc>https://baripas.github.io/terms-tr.html</loc>
+  </url>
+  <url>
+    <loc>https://baripas.github.io/account-deletion/</loc>
+  </url>
+  <url>
+    <loc>https://baripas.github.io/about.html</loc>
+  </url>
+  <url>
+    <loc>https://baripas.github.io/about-tr.html</loc>
+  </url>
+  <url>
+    <loc>https://baripas.github.io/spatial-memory.html</loc>
+  </url>
+  <url>
+    <loc>https://baripas.github.io/spatial-memory-tr.html</loc>
+  </url>
+  <url>
+    <loc>https://baripas.github.io/faq.html</loc>
+  </url>
+  <url>
+    <loc>https://baripas.github.io/faq-tr.html</loc>
+  </url>
+  <url>
+    <loc>https://baripas.github.io/troubleshooting.html</loc>
+  </url>
+  <url>
+    <loc>https://baripas.github.io/troubleshooting-tr.html</loc>
+  </url>
+  <url>
+    <loc>https://baripas.github.io/compare.html</loc>
+  </url>
+  <url>
+    <loc>https://baripas.github.io/compare-tr.html</loc>
+  </url>
+  <url>
+    <loc>https://baripas.github.io/press.html</loc>
+  </url>
+  <url>
+    <loc>https://baripas.github.io/discover.html</loc>
+  </url>
+  <url>
+    <loc>https://baripas.github.io/best-3d-memory-games.html</loc>
+  </url>
+  <url>
+    <loc>https://baripas.github.io/best-memory-games-2026.html</loc>
+  </url>
+  <url>
+    <loc>https://baripas.github.io/unusual-puzzle-games.html</loc>
+  </url>
+  <url>
+    <loc>https://baripas.github.io/games-like-simon.html</loc>
+  </url>
+  <url>
+    <loc>https://baripas.github.io/best-offline-mobile-games.html</loc>
+  </url>
+  <url>
+    <loc>https://baripas.github.io/best-brain-games-no-ads.html</loc>
+  </url>
+  <url>
+    <loc>https://baripas.github.io/cube-pattern-alternatives.html</loc>
+  </url>
+  <url>
+    <loc>https://baripas.github.io/kesfet.html</loc>
+  </url>
+  <url>
+    <loc>https://baripas.github.io/en-iyi-3d-hafiza-oyunlari.html</loc>
+  </url>
+  <url>
+    <loc>https://baripas.github.io/en-iyi-hafiza-oyunlari.html</loc>
+  </url>
+  <url>
+    <loc>https://baripas.github.io/sirasidisi-bulmaca-oyunlari.html</loc>
+  </url>
+  <url>
+    <loc>https://baripas.github.io/best-puzzle-games-2026.html</loc>
+  </url>
+  <url>
+    <loc>https://baripas.github.io/en-iyi-bulmaca-oyunlari-2026.html</loc>
+  </url>
+  <url>
+    <loc>https://baripas.github.io/entdecken.html</loc>
+  </url>
+  <url>
+    <loc>https://baripas.github.io/beste-puzzlespiele-2026.html</loc>
+  </url>
+  <url>
+    <loc>https://baripas.github.io/beste-gedaechtnisspiele-2026.html</loc>
+  </url>
+  <url>
+    <loc>https://baripas.github.io/beste-3d-gedaechtnisspiele.html</loc>
+  </url>
+  <url>
+    <loc>https://baripas.github.io/ungewoehnliche-puzzlespiele.html</loc>
+  </url>
+  <url>
+    <loc>https://baripas.github.io/descubrir.html</loc>
+  </url>
+  <url>
+    <loc>https://baripas.github.io/mejores-juegos-puzzle-2026.html</loc>
+  </url>
+  <url>
+    <loc>https://baripas.github.io/mejores-juegos-memoria-2026.html</loc>
+  </url>
+  <url>
+    <loc>https://baripas.github.io/mejores-juegos-memoria-3d.html</loc>
+  </url>
+  <url>
+    <loc>https://baripas.github.io/juegos-puzzle-inusuales.html</loc>
+  </url>
+  <url>
+    <loc>https://baripas.github.io/decouvrir.html</loc>
+  </url>
+  <url>
+    <loc>https://baripas.github.io/meilleurs-jeux-puzzle-2026.html</loc>
+  </url>
+  <url>
+    <loc>https://baripas.github.io/meilleurs-jeux-memoire-2026.html</loc>
+  </url>
+  <url>
+    <loc>https://baripas.github.io/meilleurs-jeux-memoire-3d.html</loc>
+  </url>
+  <url>
+    <loc>https://baripas.github.io/jeux-puzzle-inhabituels.html</loc>
+  </url>
+  <url>
+    <loc>https://baripas.github.io/ai-facts.html</loc>
   </url>
 </urlset>
